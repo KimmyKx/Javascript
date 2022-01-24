@@ -73,4 +73,4 @@ Atau lihat contoh yang [ini](stringManipulation.js#L35-L36)
 
 [<img align="left" src="https://api.bellshade.org/badge/navigation?badgeType=previous&text=Operator" />](../003_operator)
 
-[<img align="right" src="https://api.bellshade.org/badge/navigation?badgeType=next&text=Conditioning" />](../005_arithmetic_operation)
+[<img align="right" src="https://api.bellshade.org/badge/navigation?badgeType=next&text=Arithmetic%20Operation" />](../005_arithmetic_operation)
